@@ -1,3 +1,6 @@
+![Clinical NLP Theatre Burden Analysis](image_filename.jpg)
+
+
 # Clinical NLP: Diagnosis & Procedure Burden Analysis (2022–2025)
 
 ## 📌 Project Overview
