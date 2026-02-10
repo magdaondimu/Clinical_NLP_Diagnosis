@@ -1,5 +1,6 @@
-![Clinical NLP Theatre Burden Analysis](image_filename.jpg)
+<img width="1536" height="1024" alt="Healthcare analytics with AI integration" src="https://github.com/user-attachments/assets/12b80e59-0f4e-4517-8561-afeef2b83e54" />
 
+Advanced Clinical NLP analysis of theatre operation data (2022–2025) uncovering surgical burden themes, emergency drivers, and diagnosis–procedure intelligence.
 
 # Clinical NLP: Diagnosis & Procedure Burden Analysis (2022–2025)
 
